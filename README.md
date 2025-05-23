@@ -25,10 +25,6 @@ Este projeto é um portfólio pessoal desenvolvido com **React** e **Vite**, com
 
 └── main.jsx # Ponto de entrada da aplicação
 
-markdown
-Copiar
-Editar
-
 ## 🚀 Scripts Disponíveis
 
 - `npm run dev`: Inicia o projeto em modo de desenvolvimento.
