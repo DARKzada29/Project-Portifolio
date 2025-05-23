@@ -1,4 +1,4 @@
-## Portfólio - Vanderson
+# Portfólio - Vanderson
 
 Este projeto é um portfólio pessoal desenvolvido com **React** e **Vite**, com foco em desempenho, interatividade e uma experiência visual moderna. Ele apresenta animações fluidas, componentes estilizados e uma estrutura escalável para exibir habilidades, projetos e informações profissionais.
 
