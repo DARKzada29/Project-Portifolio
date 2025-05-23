@@ -16,9 +16,13 @@ Este projeto é um portfólio pessoal desenvolvido com **React** e **Vite**, com
 
 /src
 ├── components # Componentes reutilizáveis
-├── pages # Páginas principais do portfólio
+
+├── pages # Páginas principais do portfólio 
+
 ├── styles # Estilos globais
+
 ├── assets # Imagens e ícones
+
 └── main.jsx # Ponto de entrada da aplicação
 
 markdown
