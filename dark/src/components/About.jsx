@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import img from './assets/profile.jpg';
 
 const AboutContainer = styled.section`
   padding: 100px 0;
@@ -177,7 +178,7 @@ const About = () => {
           </AboutText>
           <ImageWrapper>
             <StyledImage className="img-wrapper">
-              <img src="/profile.jpg" alt="Vanderson Alves de Lima" />
+              <img src="./assets/profile.jpg" alt="Vanderson Alves de Lima" />
             </StyledImage>
             <ImageBorder />
           </ImageWrapper>
