@@ -177,7 +177,7 @@ const About = () => {
           </AboutText>
           <ImageWrapper>
             <StyledImage className="img-wrapper">
-              <img src="/profile.jpg" alt="Vanderson Alves de Lima" />
+              <img src="./assets/profile.jpg" alt="Vanderson Alves de Lima" />
             </StyledImage>
             <ImageBorder />
           </ImageWrapper>
