@@ -155,7 +155,7 @@ const About = () => {
         <AboutContent>
           <AboutText>
             <p>
-              Olá! Meu nome é Vanderson e sou apaixonado por criar coisas para a web. Meu interesse por desenvolvimento web começou em 2015 quando decidi explorar como os sites funcionavam — essa curiosidade me levou a uma jornada fascinante no mundo do desenvolvimento frontend.
+              Olá! Meu nome é Vanderson e sou apaixonado por criar coisas para a web. Meu interesse por desenvolvimento web começou em 2023 quando decidi explorar como os sites funcionavam — essa curiosidade me levou a uma jornada fascinante no mundo do desenvolvimento frontend.
             </p>
             <p>
               Hoje, tenho o privilégio de trabalhar em projetos que combinam design e código, criando interfaces que são tanto visualmente atraentes quanto funcionalmente eficientes. Meu foco está em construir produtos digitais acessíveis e com experiências de usuário excepcionais.
